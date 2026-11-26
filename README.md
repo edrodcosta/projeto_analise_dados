@@ -1,0 +1,1 @@
+fazer um plot para cada componente do PCA
